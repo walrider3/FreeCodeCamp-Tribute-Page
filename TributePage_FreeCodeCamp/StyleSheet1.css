@@ -1,0 +1,52 @@
+﻿body {
+    background-color: #c19ab7;
+}
+
+#main {
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+}
+
+#title {
+    text-align: center;
+    font-family: Helvetica,"Book Antiqua";
+    font-size: 50px;
+    padding: 10px;
+}
+
+#main {
+    background-color: #9c95dc;
+    border-radius: 8px;
+}
+
+#img-div {
+    background-color: #c19ab7;
+    border-radius: 8px;
+    max-width: 80%;
+    height: 500px;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#image {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#te {
+    color: #0b7189;
+}
+
+#tribute-info {
+    margin: 100px;
+    padding: 10px;
+}
+
+p {
+    color: #170a1c;
+}
